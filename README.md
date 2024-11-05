@@ -1,16 +1,2 @@
-# skyline_template_app
-
-A template for Skyline CS students.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# saptak
+I made a client-based application. I found a client who needed an application for their upcoming business Saptak- A business offering lessons in Indian Classical Music. I made an app for my client wherein the teacher can offer lessons and join them, and the student can see and join offered lessons as per their skill level. I used Flutter and Dart to make an aesthetically appealing android/IOS app for my client using widgets. I used the Firebase Realtime Database, in order to send and retrieve data about students- skill level, name, age- and lessons- time, date, skill level.
